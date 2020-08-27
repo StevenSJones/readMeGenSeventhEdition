@@ -26,27 +26,27 @@ const questions = [
   },
   {
     type: "input",
-    message: "Please provide a table of contents for the work in question.",
+    message: "Would you like to provide a table of contents for the work in question?",
     name: "tableOfContentsInput",
   },
   {
     type: "input",
-    message: "Please provide the installation for the work in question.",
+    message: "Would you like to provide the installation for the work in question?",
     name: "installationInput",
   },
   {
     type: "input",
-    message: "Please provide the usage for the work in question.",
+    message: "Would you care to provide the usage for the work in question?",
     name: "usageInput",
   },
   {
     type: "input",
-    message: "Please provide the license for the work in question.",
+    message: "Would you like to provide the license for the work in question?",
     name: "licenseInput",
   },
   {
     type: "input",
-    message: "Please provide the contributing for the work in question.",
+    message: "Would you like to provide the contributing for the work in question?",
     name: "contributingInput",
   },
   {
