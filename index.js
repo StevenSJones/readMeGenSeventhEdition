@@ -72,8 +72,8 @@ inquirer
     //let responseObj = JSON.stringify(response, null, "\t");
     let responseObj = response;
     console.log(responseObj);
-    //instead of stringify I am passing the response obj into the function and since the 
-   responseObj = generateMarkdown(responseObj);
+    //instead of stringify I am passing the response obj into the function and since the
+    responseObj = generateMarkdown(responseObj);
 
     fs.writeFile("readME.md", responseObj, function (err) {
       if (err) {
