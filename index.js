@@ -2,7 +2,7 @@
 const inquirer = require("inquirer");
 const fs = require("fs");
 const generateMarkdown = require("./utils/generateMarkdown");
-// array of questions for user
+// array of questions for user to answer.
 const questions = [
   {
     type: "input",
@@ -26,12 +26,14 @@ const questions = [
   },
   {
     type: "input",
-    message: "Would you like to provide a table of contents for the work in question?",
+    message:
+      "Would you like to provide a table of contents for the work in question?",
     name: "tableOfContentsInput",
   },
   {
     type: "input",
-    message: "Would you like to provide the installation for the work in question?",
+    message:
+      "Would you like to provide the installation for the work in question?",
     name: "installationInput",
   },
   {
@@ -46,7 +48,8 @@ const questions = [
   },
   {
     type: "input",
-    message: "Would you like to provide the contributing for the work in question?",
+    message:
+      "Who contributed to the work in question?",
     name: "contributingInput",
   },
   {

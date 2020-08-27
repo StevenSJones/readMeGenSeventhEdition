@@ -2,9 +2,9 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/stevensjones/weatherDashboardSixthEdition)
 
 # Project Title: weatherDashboardSixthEdition
-One Paragraph of project description goes here: Here it is.
+One Paragraph of project description goes here: It involved javascript and jquery in conjunction with other technologies to dynamically create a readme.md for a user.
     
-Yes.
+yes
 ## Table of Contents:
 - [title](#title)
 - [Prerequisites](#Prerequisites)
@@ -15,17 +15,19 @@ Yes.
 
 ## Prerequisites:
 What things you need to install the software and how to install them: 
-> Here is the installation
+> yes
     
 ## Usage:
-> I use it all the time
+> yes
     
 ## Tests:
-> test, test, test
+> test1 test 2
     
 ## Contributing:
-> steven, tucker and Becky
+> me
     
 ## License
-> [License Info](https://opensource.org/licenses/yes please)
-This project is licensed under: yes please - see the LICENSE.md file for details
+> [License Info](https://opensource.org/licenses/yes)
+This project is licensed under: yes - see the LICENSE.md file for details
+
+> # Feel free to reach out to me with questions involving this project on GITHUB at : [stevensjones] (https://github.com/stevensjones;
