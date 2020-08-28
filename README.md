@@ -1,9 +1,14 @@
 
-![GitHub repo size](https://img.shields.io/github/repo-size/stevensjones/portHW)
+![GitHub repo size](https://img.shields.io/github/repo-size/stevensjones/readMeGenSeventhEdition)
 
-# Project Title: portHW
-One Paragraph of project description goes here: It is awesome
-    
+# Project Title: readMeGenSeventhEdition:
+One Paragraph of project description goes here: This dynamically generates a readme.md file.
+
+## description: 
+>[readME.md youtube](https://youtu.be/aZTx6vYMvvM)
+>![readME.md GIPH]()
+
+
 yes
 ## Table of Contents:
 - [title](#title)
@@ -21,14 +26,15 @@ What things you need to install the software and how to install them:
 > a lot
     
 ## Tests:
-> test1 test2
+> yes
     
 ## Contributing:
-> me
+> steven jones
+
     
 ## License
-> [License Info](https://opensource.org/licenses/certainly)
-This project is licensed under: certainly
+> [License Info](https://opensource.org/licenses/lot )
+This project is licensed under: lot 
 
 ## Further Contact:
 > Feel free to reach out to me with questions involving this project on GITHUB at : [stevensjones](https://github.com/stevensjones);

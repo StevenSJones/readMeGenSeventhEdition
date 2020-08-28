@@ -33,17 +33,17 @@ const questions = [
   {
     type: "input",
     message:
-      "Would you like to provide the installation for the work in question?",
+      "Please provide the installation for the work in question.",
     name: "installationInput",
   },
   {
     type: "input",
-    message: "Would you care to provide the usage for the work in question?",
+    message: "Please provide the usage for the work in question.",
     name: "usageInput",
   },
   {
     type: "input",
-    message: "Would you like to provide the license for the work in question?",
+    message: "Please provide the license for the work in question.",
     name: "licenseInput",
   },
   {
