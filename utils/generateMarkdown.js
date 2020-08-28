@@ -34,7 +34,8 @@ What things you need to install the software and how to install them:
 > [License Info](https://opensource.org/licenses/${data.licenseInput})
 This project is licensed under: ${data.licenseInput}
 
-> # Feel free to reach out to me with questions involving this project on GITHUB at : [${data.githubUser}] (https://github.com/${data.githubUser};
+## Further Contact:
+> Feel free to reach out to me with questions involving this project on GITHUB at : [${data.githubUser}](https://github.com/${data.githubUser});
 `;
 }
 
