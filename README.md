@@ -5,11 +5,9 @@
 One Paragraph of project description goes here: This dynamically generates a readme.md file.
 
 ## description: 
->[readME.md youtube](https://youtu.be/aZTx6vYMvvM)
->![readME.md GIPH]()
+![GIF](https://raw.githubusercontent.com/StevenSJones/readMeGenSeventhEdition/master/readMeGeneratorSeventhEdition.gif)
+>[YouTube](https://youtu.be/aZTx6vYMvvM)
 
-
-yes
 ## Table of Contents:
 - [title](#title)
 - [Prerequisites](#Prerequisites)
