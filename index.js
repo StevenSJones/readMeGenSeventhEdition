@@ -77,11 +77,4 @@ inquirer
     console.log(responseObj);
     //instead of stringify I am passing the response obj into the function and since the
     responseObj = generateMarkdown(responseObj);
-
-    fs.writeFile("readME.md", responseObj, function (err) {
-      if (err) {
-        return console.log(err);
-      }
-      console.log("Success!");
-    });
   });
