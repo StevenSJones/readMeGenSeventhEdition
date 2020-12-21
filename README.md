@@ -9,8 +9,8 @@
 >![readME.md GIPH]()
 
 ## Table Of Contents:
-- [title](#Title)
-- [description](#Description)
+- [Title](#Title)
+- [Description](#Description)
 - [Table Of Contents](#TableOfContents)
 - [Prerequisites](#Prerequisites)
 - [Tests](#Tests)
