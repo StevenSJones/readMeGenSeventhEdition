@@ -1,12 +1,12 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/stevensjones/readMeGenSeventhEdition)
 
 # Project Title: 
-> readMeGenSeventhEdition:
+> readMeGenSeventhEdition
 
 ## Description: 
 > This command line interface (CLI) run application dynamically generates a readme.md file for anyone that may need one. A user can initiate the application in the CLI and follow the prompts to create a readme.md file with their desired specifications.
->[readME.md youtube](https://youtu.be/aZTx6vYMvvM)
->![readME.md GIPH]()
+> [readME.md youtube](https://youtu.be/aZTx6vYMvvM)
+> ![readME.md GIPH]()
 
 ## Table Of Contents:
 - [Title](#Title)
@@ -36,9 +36,3 @@
 
 ## Further Contact:
 > Feel free to reach out to me with questions involving this project on GITHUB at : [stevensjones](https://github.com/stevensjones);
-
-> TODOS: Include in USAGE --- 1)The URL of the deployed application. 2)The screenshot of the finished application in an assets dir. See below and erase below when done.
-
-[License Info](https://opensource.org/licenses/lot)
-
-![code quiz](./Assets/04-web-apis-homework-demo.gif)
