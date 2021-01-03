@@ -22,6 +22,7 @@
 
 ## Prerequisites:
 > npm install node
+> run with command node index.js
     
 ## Tests:
 > None
