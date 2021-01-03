@@ -5,6 +5,7 @@
 
 ## Description: 
 > This command line interface (CLI) run application dynamically generates a readme.md file for anyone that may need one. A user can initiate the application in the CLI and follow the prompts to create a readme.md file with their desired specifications.
+> ![Screen Shot 2021-01-02 at 5 43 43 PM](https://user-images.githubusercontent.com/56704209/103469521-1b2c1500-4d23-11eb-96bb-0f830f94a848.png)
 > [readME.md youtube](https://youtu.be/aZTx6vYMvvM)
 > ![readME.md GIPH]()
 
